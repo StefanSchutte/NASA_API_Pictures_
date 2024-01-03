@@ -1,6 +1,11 @@
 ## NASA API Pictures
 This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.
 
+![2024-01-03_15-13](https://github.com/StefanSchutte/NASA_API_Pictures_/assets/127427422/e0d8cdb4-dae5-492e-bf1a-28cc7859e9b3)
+
+
+[Deployed Site](https://nasa-api-pictures-apod.netlify.app/)
+
 ### Features
 - NASA API Integration: Fetches the NASA Picture of the Day and related information using the NASA API.
 
@@ -23,6 +28,9 @@ This web application utilizes the NASA API to showcase a curated collection of a
 - Favorites Page: Users can navigate to the favorites page to manage their saved images.
 
 - Load More: Continuously loads more NASA images as the user scrolls down.
+
+![2024-01-03_15-14](https://github.com/StefanSchutte/NASA_API_Pictures_/assets/127427422/09fa65a6-fec0-444f-b8bb-b9edf82c2fc8)
+
 
 ### Configuration
 API Key: The application uses a demo API key for the NASA API (DEMO_KEY). Replace it with your own API key for extended usage.
